@@ -16,6 +16,9 @@
 
 @import 'bootstrap-sprockets';
 @import'bootstrap';
+//Font-awesome import for logo
+@import "font-awesome-sprockets";
+@import "font-awesome";
 
 //Typography styles
 h1, h2, h3 {
